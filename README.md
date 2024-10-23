@@ -1,1 +1,2 @@
-# OpenCV
+### OpenCV
+#### This repository contains projects and tools built using OpenCV, a popular open-source computer vision and machine learning library. It provides functionality for real-time image processing, video analysis, object detection, face recognition, and more. The repository includes code for tasks like reading and writing images and videos, applying transformations, detecting objects, and capturing live video for real-time processing. It also demonstrates how to integrate machine learning models for advanced vision tasks. 
